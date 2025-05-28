@@ -17,7 +17,7 @@
       <div class="col-lg-4 col-md-6 d-flex">
         <div class="service-item position-relative" data-aos="fade-up" data-aos-delay="200">
           <div class="icon"><i class="bi bi-people icon"></i></div>
-          <h4><a href="mailto:info@kaunai.orgt" class="stretched-link">Collaborate With Us</a></h4>
+          <h4><a href="mailto:info@kaunai.org" class="stretched-link">Collaborate With Us</a></h4>
           <p>We welcome partnerships across academia, research, and technology to co-create impactful solutions.</p>
         </div>
       </div>

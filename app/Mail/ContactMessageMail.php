@@ -41,6 +41,8 @@ class ContactMessageMail extends Mailable
      */public function build()
 {
     return $this->subject('New Contact Message')
-                ->view('emails.contact');
+                ->replyTo($this->messageData['email']) // ← أضفنا replyTo هنا
+                ->view('emails.contact')
+                ->with(['messageData' => $this->messageData]);
 }
 }

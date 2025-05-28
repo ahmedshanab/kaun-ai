@@ -22,9 +22,7 @@
               <h3>Address</h3>
               <p>Kaun AI gGmbH, An der Kolonnade 11-13, 10117 Berlin</p>
               <div class="w-100 d-flex justify-content-center">
-      <p class="small text-muted text-start" style="max-width: 300px;">
-        Please note: This is a virtual address used for correspondence and official mail purposes only.
-      </p>
+
     </div>
             </div>
           </div><!-- End Info Item -->
@@ -42,7 +40,7 @@
             <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="400">
               <i class="bi bi-envelope"></i>
               <h3>Email Us</h3>
-              <p>info@KaunAi.org</p>
+              <p>info@kaunai.org</p>
             </div>
           </div><!-- End Info Item -->
 

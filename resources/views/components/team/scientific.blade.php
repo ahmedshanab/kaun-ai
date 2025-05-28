@@ -36,5 +36,25 @@
         </div>
       </div>
     </div>
+
+
+    <!--Dr. Husam Badr -->
+     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+      <div class="team-member">
+        <div class="member-img">
+          <img src="{{ asset('assets/img/coomingjpg.jpg') }}" class="img-fluid" alt="Dr. Mohammed Alfarra">
+          <div class="social">
+
+          </div>
+        </div>
+        <div class="member-info">
+          <h4>Dr. Husam Badr</h4>
+          <span>Pharmacist | Regenerative Medicine PhD Candidate in Mansoura | AI in Healthcare Enthusiast .</span>
+
+
+        </div>
+      </div>
+    </div>
+
   </div>
 </div>

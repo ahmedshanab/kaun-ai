@@ -29,7 +29,7 @@
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="fas fa-project-diagram"></i>
               <div>
-                <span data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1" class="purecounter"></span>
                 <p>Ongoing Projects</p>
               </div>
             </div>

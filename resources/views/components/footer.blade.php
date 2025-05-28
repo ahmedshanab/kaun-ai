@@ -5,26 +5,26 @@
     <div class="container footer-top">
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-about">
-          <a href="index.html" class="logo d-flex align-items-center">
-            <span class="sitename">Legal Notice (Impressum)</span>
-          </a>
-          <div class="footer-contact pt-3">
+            <div class="logo d-flex align-items-center">
+            <span class="logo d-flex align-items-center sitename">Legal Notice (Impressum)</span>
+            </div>
+            <div class="footer-contact pt-3">
             <p>Legal Notice / Provider Identification according to §5 TMG (German Telemedia Act):</p>
             <p>Kaun AI gGmbH i.G. (in formation)</p>
             <p>An der Kolonnade 11–13</p>
             <p>10117 Berlin, Germany</p>
-            <p class="mt-3"><strong>Note:</strong> <span>This is a virtual business address for correspondence purposes only.</span></p>
             <p class="mt-3"><strong>Represented by:</strong> <span>Dr. med. Mohammed Alfarra</span></p>
-            <p><strong>Email:</strong> <span>info@KaunAi.org</span></p>
+            <p><strong>Email:</strong> <span>info@kaunai.org</span></p>
             <p><strong>Commercial register:</strong> <span>Company in formation – registration with the commercial register pending</span></p>
 
           </div>
+          <!--
           <div class="social-links d-flex mt-4">
             <a href=""><i class="bi bi-twitter-x"></i></a>
             <a href=""><i class="bi bi-facebook"></i></a>
             <a href=""><i class="bi bi-instagram"></i></a>
             <a href=""><i class="bi bi-linkedin"></i></a>
-          </div>
+          </div> -->
         </div>
 
 

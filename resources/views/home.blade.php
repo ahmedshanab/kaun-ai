@@ -1,7 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 <body class="index-page">
 
@@ -108,7 +107,7 @@
 
 
 <!-- join-us -->
-        <x-join-us />
+        <x-joinUs />
 <!-- /join-us -->
 
 <!-- whitepaper -->
